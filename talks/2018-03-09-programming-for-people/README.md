@@ -1,16 +1,18 @@
 ---
 author: Tim Shedor
 date: 2018.03.09
-title: Programming for Humans
-subtitle: How to write code for someone you'll never meet
+title: Programming for People
+subtitle: Write code for someone you'll never meet
 ---
+
+[Watch instead](https://www.youtube.com/watch?v=oX5VYDxvYi8)
 
 # Why?
 
 ---
 
 ## Every time our tool brings an incomprehensible error message, someone out there decides they're just not cut out for programming.
-*Dan Abramov, “The Melting Pot of JavaScript”*
+*Dan Abramov, “[The Melting Pot of JavaScript](https://www.youtube.com/watch?v=G39lKaONAlA)”*
 
 ---
 
@@ -70,11 +72,11 @@ function () {
 // Who is he???
 ```
 
----
+$-- ---
 
-![Who is he](https://media.giphy.com/media/39xzJMrW1o3OFjLqdF/giphy.gif "Who is he")
+$-- ![Who is he](https://media.giphy.com/media/39xzJMrW1o3OFjLqdF/giphy.gif "Who is he")
 
----
+$-- ---
 
 ```javascript
   // He is Doug.
@@ -143,7 +145,7 @@ $('aside').each(function() {
 ---
 
 ## Every time our tool brings an incomprehensible error message, someone out there decides they're just not cut out for programming.
-*Dan Abramov, “The Melting Pot of JavaScript”*
+*Dan Abramov, “[The Melting Pot of JavaScript](https://www.youtube.com/watch?v=G39lKaONAlA)”*
 
 ---
 
