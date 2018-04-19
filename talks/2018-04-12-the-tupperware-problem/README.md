@@ -4,6 +4,8 @@ date: 2018.04.12
 title: The Tupperware Problem
 ---
 
+[View Presentation](https://docs.google.com/presentation/d/1_oRD8ZJ_ctCn7BdSNDj9ECqAs4fEmw94p4_4P4cmDCQ/edit?usp=sharing)
+
 ---
 
 ## Vacant space will be filled by chaos.
@@ -181,7 +183,7 @@ fileprivate func contentOrLatLngToString(content: String, coordinates: Array<Dou
 
 ---
 
-## Good habits encourage good habits
+## Good habits encourage good habits.
 
 ---
 
@@ -210,7 +212,7 @@ end
 
 ---
 
-## Mismatching is costly
+## Mismatching is costly.
 
 ---
 
@@ -268,7 +270,7 @@ const updateProposalAssessmentForChangedField = field => {
 return vendorsByWeddingAndId(wedding_id, uid)
   .then(() => {
     let fieldsToCheck = ['estimate, proposal'];
-    let promises = fieldsToCheck.map(field => updateProposalAssessmentForChangedField(field));
+    let promises = fieldsToCheck.map(updateProposalAssessmentForChangedField);
     return Promise.all(promises);
   })
 ```
